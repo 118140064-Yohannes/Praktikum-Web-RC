@@ -1,0 +1,46 @@
+		.header{
+			background-color: #2fe3e9;
+			width: 784px;	
+			height: 200px;
+			text-align: center;
+		}
+		.kolomA{
+			background-color: #0bec0b;
+			width: 784px;
+			height: 120px;
+			text-align: center;
+		}
+		.daftar-kolom{
+			width: 784px;
+			display: flex;
+		}
+		.daftar-kolom .kolom2{
+			background-color: #d99896;
+			float: right;
+			height: auto;
+			width: 584px;
+			padding: 10px;
+		}
+		.daftar-kolom .kolom2 form input,textarea{
+			margin: 2px;
+			padding: 5px;
+			border-radius: 4px;
+			border: 1px solid #eee;
+		}
+		.daftar-kolom .kolom1{
+			background-color: #ffff01;
+			float: left;
+			width: 200px;
+			height: auto;
+			padding: 10px; 
+		}
+		.daftar-kolom .kolom1 a{
+			text-decoration: none;
+			padding-left: 20px;
+		}
+		.footer{
+			background-color: #eb11a9;
+			width: 784px;
+			height: 100px;
+			text-align: center;
+		}
